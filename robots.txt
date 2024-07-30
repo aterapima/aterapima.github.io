@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aterapima.github.io/sitemap.html.gz
+Sitemap: https://aterapima.github.io/app/sitemap.html.gz
+Sitemap: https://aterapima.github.io/assets/sitemap.html.gz
+Sitemap: https://aterapima.github.io/css/sitemap.html.gz
+Sitemap: https://aterapima.github.io/includes/sitemap.html.gz
+Sitemap: https://aterapima.github.io/item/sitemap.html.gz
+Sitemap: https://aterapima.github.io/src/sitemap.html.gz
